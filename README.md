@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Danilo Deiró</h1>
-<h3 align="center">I'm a Full Stack WEB Developer from Brazil 🇧🇷</h3>
+<h3 align="center">I'm a WEB Developer from Brazil 🇧🇷</h3>
 <p align="center">
   <img
     src="https://github.com/danilosdeiro/danilosdeiro/assets/94176431/2ec00b58-102c-4a07-abcf-a570b211e1a1"

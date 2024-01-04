@@ -18,9 +18,8 @@ My primary goal? Continuous learning and growth in the vast world of programming
 
 When I'm not diving into code, you'll find me unwinding with my friends, watching series, and immersing myself in the thrilling realm of games. 🎮🍿
 
-Let's connect, collaborate, and build something awesome together! 🤝🚧
+Let's connect, collaborate, and build something together! 🤝🚧
 
-Stay curious, keep coding! 💡🖥️.</em></p>
 
 <a href="https://github.com/danilosdeiro">
 <img height="200em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosdeiro&theme=nightowl&layout=compact&langs_count=7"/>
